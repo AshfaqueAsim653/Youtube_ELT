@@ -113,6 +113,8 @@ Created custom dashboards and charts
 
 Vide Type and Sum of Views:
 <img width="646" height="436" alt="image" src="https://github.com/user-attachments/assets/87467a18-0839-43a2-9364-4e282b1ab45c" />
+
+
 As Evident from the chart, youtube shorts rack in substantially higher views compared to normal form content
 
 <img width="655" height="437" alt="image" src="https://github.com/user-attachments/assets/79eba192-c37f-44eb-a600-86e1e29135c4" />
@@ -128,6 +130,7 @@ As Evident from the chart, youtube shorts rack in substantially higher views com
 
 
 <img width="792" height="529" alt="image" src="https://github.com/user-attachments/assets/95d9c80c-870a-4749-877a-104ddbc4449f" />
+
 
 
 
