@@ -21,3 +21,26 @@ The pipeline is containerized with Docker and orchestrated with Airflow.
 Data visualization and KPIs are added using Power BI.
 
 
+# Dataset
+
+Source: YouTube Data API
+
+Channel used for this project: MrBeast (project can be replicated for any channel by changing the channel ID).
+
+Variables extracted:
+
+Video ID
+
+Video Title
+
+Upload Date
+
+Duration
+
+Video Views
+
+Likes Count
+
+Comments Count
+
+Video Type (Shorts / Normal)
