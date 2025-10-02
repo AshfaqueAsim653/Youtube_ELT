@@ -6,8 +6,7 @@
 <img width="1195" height="720" alt="image" src="https://github.com/user-attachments/assets/893412be-0b98-45d1-86d0-2db52c5ce651" />
 
 
-
-Motivation
+# Motivation
 
 The goal of this project is to gain hands-on experience with modern data engineering tools like Python, Docker, Airflow, and PostgreSQL by building a fully functional ELT pipeline.
 
@@ -20,4 +19,5 @@ Integration testing is done using Pytest.
 The pipeline is containerized with Docker and orchestrated with Airflow.
 
 Data visualization and KPIs are added using Power BI.
+
 
