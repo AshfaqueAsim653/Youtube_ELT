@@ -94,20 +94,6 @@ Testing → Soda (data quality), Pytest (integration)
 Visualization → Power BI
 
 
-# Credits & License
-
-This project is based on MattTheDataEngineer/YT_ELT
-, licensed under the MIT License.
-
-My contributions include:
-
-Added Power BI visualizations and KPIs
-
-Used pgAdmin for database management
-
-Created custom dashboards and charts
-
-
 
 # Power BI Visualizations
 
@@ -170,6 +156,24 @@ Engagement percentage appears to be evenly distributed amongst all months
 
 
 Engagement percentage increases with increase in days. More engagement is observed near month ends
+
+
+
+
+# Credits & License
+
+This project is based on MattTheDataEngineer/YT_ELT
+, licensed under the MIT License.
+
+My contributions include:
+
+Added Power BI visualizations and KPIs
+
+Used pgAdmin for database management
+
+Created custom dashboards and charts
+
+
 
 
 
