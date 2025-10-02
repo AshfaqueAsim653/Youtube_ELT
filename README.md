@@ -56,21 +56,26 @@ Extract:
 Python scripts fetch raw JSON data from the YouTube API.
 
 Load:
+
 Data is loaded into a staging schema in a Dockerized PostgreSQL database (using pgAdmin for DB management instead of DBeaver).
 Subsequent API calls update existing records in the database with new values (upsert) to keep the data current.
 
 Transform:
+
 Minor transformations applied in Postgres before loading into the core schema.
 Ensures staging and core schemas remain synchronized with the latest API data.
 
 Orchestration:
+
 Airflow DAGs schedule and manage the workflow:
 extract_youtube_data → Fetch raw data
 load_to_postgres → Load into staging & core schemas, updating existing records as needed
 data_quality_tests → Validate data quality with Soda
 
 Visualization:
+
 Power BI dashboards created using ODBC connection to Postgres
 KPIs designed for meaningful insights (engagement rate, views over time, Shorts vs Normal performance)
+
 
 
