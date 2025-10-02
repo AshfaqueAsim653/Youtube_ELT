@@ -120,6 +120,8 @@ Video Type and Sum of Views:
 As Evident from the chart, youtube shorts rack in substantially higher views compared to normal form content
 
 
+
+
 Views vs Comments count count for each video based on video ID:
 
 
@@ -141,6 +143,7 @@ Likes count surpasses comment count in all the videos
 
 
 <img width="792" height="529" alt="image" src="https://github.com/user-attachments/assets/95d9c80c-870a-4749-877a-104ddbc4449f" />
+
 
 
 
