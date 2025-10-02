@@ -141,15 +141,23 @@ Titles with the user's twitch channel highlighted have more total Likes and Comm
 
 
 
+**Engagement Percentage for the user's channel on an yearly basis:**
 
 
 <img width="797" height="535" alt="image" src="https://github.com/user-attachments/assets/d267bb78-75b9-4b4b-a63f-71859cbd49d7" />
+
+
+Engagement growth is proportional to the number of years
+
+
+
 
 
 <img width="798" height="490" alt="image" src="https://github.com/user-attachments/assets/596db4dc-fd27-45c5-ab84-10b215b63839" />
 
 
 <img width="792" height="529" alt="image" src="https://github.com/user-attachments/assets/95d9c80c-870a-4749-877a-104ddbc4449f" />
+
 
 
 
