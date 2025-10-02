@@ -57,7 +57,7 @@ Python scripts fetch raw JSON data from the YouTube API.
 
 Load:
 
-Data is loaded into a staging schema in a Dockerized PostgreSQL database (using pgAdmin for DB management instead of DBeaver).
+Data is loaded into a staging schema in a Dockerized PostgreSQL database (using pgAdmin for DB management).
 Subsequent API calls update existing records in the database with new values (upsert) to keep the data current.
 
 Transform:
@@ -76,6 +76,7 @@ Visualization:
 
 Power BI dashboards created using ODBC connection to Postgres
 KPIs designed for meaningful insights (engagement rate, views over time, Shorts vs Normal performance)
+
 
 
 
