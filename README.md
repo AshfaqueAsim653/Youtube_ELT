@@ -79,4 +79,17 @@ KPIs designed for meaningful insights (engagement rate, views over time, Shorts 
 
 
 
+# Tools & Technologies
+
+Containerization → Docker, Docker Compose
+
+Orchestration → Apache Airflow
+
+Database → PostgreSQL on Docker (pgAdmin for management)
+
+Languages → Python, SQL, DAX query
+
+Testing → Soda (data quality), Pytest (integration)
+
+Visualization → Power BI
 
