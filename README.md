@@ -106,3 +106,34 @@ Added Power BI visualizations and KPIs
 Used pgAdmin for database management
 
 Created custom dashboards and charts
+
+
+
+# Power BI Visualizations
+
+Vide Type and Sum of Views:
+<img width="646" height="436" alt="image" src="https://github.com/user-attachments/assets/87467a18-0839-43a2-9364-4e282b1ab45c" />
+As Evident from the chart, youtube shorts rack in substantially higher views compared to normal form content
+
+<img width="655" height="437" alt="image" src="https://github.com/user-attachments/assets/79eba192-c37f-44eb-a600-86e1e29135c4" />
+
+
+<img width="646" height="439" alt="image" src="https://github.com/user-attachments/assets/891fe525-2b81-424a-adc7-4fea52289da4" />
+
+
+<img width="797" height="535" alt="image" src="https://github.com/user-attachments/assets/d267bb78-75b9-4b4b-a63f-71859cbd49d7" />
+
+
+<img width="798" height="490" alt="image" src="https://github.com/user-attachments/assets/596db4dc-fd27-45c5-ab84-10b215b63839" />
+
+
+<img width="792" height="529" alt="image" src="https://github.com/user-attachments/assets/95d9c80c-870a-4749-877a-104ddbc4449f" />
+
+
+
+
+
+
+
+
+
