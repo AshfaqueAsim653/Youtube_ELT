@@ -128,12 +128,19 @@ Views vs Comments count count for each video based on video ID:
 <img width="655" height="437" alt="image" src="https://github.com/user-attachments/assets/79eba192-c37f-44eb-a600-86e1e29135c4" />
 
 
-Likes count surpasses comment count in all the videos
+Likes count surpasses comments count in all the videos
 
 
+Sum of Likes and Comments based on Video Title:
 
 
 <img width="646" height="439" alt="image" src="https://github.com/user-attachments/assets/891fe525-2b81-424a-adc7-4fea52289da4" />
+
+
+Titles with the user's twitch channel highlighted have more total Likes and Comments
+
+
+
 
 
 <img width="797" height="535" alt="image" src="https://github.com/user-attachments/assets/d267bb78-75b9-4b4b-a63f-71859cbd49d7" />
@@ -143,6 +150,7 @@ Likes count surpasses comment count in all the videos
 
 
 <img width="792" height="529" alt="image" src="https://github.com/user-attachments/assets/95d9c80c-870a-4749-877a-104ddbc4449f" />
+
 
 
 
