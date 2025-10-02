@@ -93,3 +93,16 @@ Testing → Soda (data quality), Pytest (integration)
 
 Visualization → Power BI
 
+
+# Credits & License
+
+This project is based on MattTheDataEngineer/YT_ELT
+, licensed under the MIT License.
+
+My contributions include:
+
+Added Power BI visualizations and KPIs
+
+Used pgAdmin for database management
+
+Created custom dashboards and charts
