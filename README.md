@@ -141,6 +141,9 @@ Titles with the user's twitch channel highlighted have more total Likes and Comm
 
 
 
+**Engagement percentage is calculated by summing likes and comments for each video and dividing the sum by video views**
+
+
 **Engagement Percentage for the user's channel on an yearly basis:**
 
 
@@ -150,13 +153,23 @@ Titles with the user's twitch channel highlighted have more total Likes and Comm
 Engagement growth is proportional to the number of years
 
 
-
+**Month wise Engagement Percentage:**
 
 
 <img width="798" height="490" alt="image" src="https://github.com/user-attachments/assets/596db4dc-fd27-45c5-ab84-10b215b63839" />
 
 
+Engagement percentage appears to be evenly distributed amongst all months
+
+
+**Engagement Percentage based on days of the month:**
+
+
 <img width="792" height="529" alt="image" src="https://github.com/user-attachments/assets/95d9c80c-870a-4749-877a-104ddbc4449f" />
+
+
+
+Engagement percentage increases with increase in days. More engagement is observed near month ends
 
 
 
