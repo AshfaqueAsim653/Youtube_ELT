@@ -25,7 +25,7 @@ Data visualization and KPIs are added using Power BI.
 
 Source: YouTube Data API
 
-Channel used for this project: MrBeast (project can be replicated for any channel by changing the channel ID).
+Channel used for this project: dima_aimbots a gaming channel. 
 
 Variables extracted:
 
@@ -172,6 +172,7 @@ Added Power BI visualizations and KPIs
 Used pgAdmin for database management
 
 Created custom dashboards and charts
+
 
 
 
