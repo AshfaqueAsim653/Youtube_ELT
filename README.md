@@ -167,11 +167,14 @@ This project is based on MattTheDataEngineer/YT_ELT
 
 My contributions include:
 
+Including custom SQL Scripts for additional variables
+
 Added Power BI visualizations and KPIs
 
 Used pgAdmin for database management
 
 Created custom dashboards and charts
+
 
 
 
